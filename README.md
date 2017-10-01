@@ -1,2 +1,2 @@
-# Aworks-Virtual-Intellect
+# Aworks Virtual Intellect
 The modern assistant
